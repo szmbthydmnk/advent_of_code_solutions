@@ -1,5 +1,14 @@
-# Advent of Code - 2025
-# Day 3: Encrypted Message Decoder
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Advent of Code 2025 - Day 03 - Enrypted Message Decoder
+Official problem description: https://adventofcode.com/2025/day/3
+Solution by Dominik Szombathy
+Date: 2025-12-03
+"""
+
+from Functions_2025 import read_lines
 
 import Functions as F
 import numpy as np
